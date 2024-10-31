@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'HARD_ROCK';
+    src: url('../fonts/HARD_ROCK.ttf');
+}
+@font-face {
+    font-family: 'rocknroll_typo_crazy';
+    src: url('../fonts/rocknroll_typo_crazy.ttf');
+}
+@font-face {
+    font-family: 'Thedark';
+    src: url('../fonts/TheDark.ttf');
+}
+
+.navbar {
+    font-family: 'TheDark';
+    font-size: 25px;
+}
+
+
+.logo {
+    width: 100px;
+}
+
+h1 {
+    font-family: 'thedark';
+}
+.section1 {
+    margin-top: 35px;
+}
+
+#section2 {
+    margin-top: 100px;
+}
+ 
